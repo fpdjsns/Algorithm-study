@@ -6,7 +6,7 @@
  *
  *  Problem : https://www.algospot.com/judge/problem/read/JOSEPHUS
  */
- 
+
 #include <stdio.h>
 #include <malloc.h>
 
