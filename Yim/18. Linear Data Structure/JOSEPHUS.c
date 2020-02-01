@@ -14,7 +14,6 @@ struct node {
 	int i;
 	struct node *prev, *next;
 };
-
 struct node *head;
 
 void createGroup(int n) {
